@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tarrus
-- 👀 I’m interested in jr frontend internship and jobs
+- 👀 I’m interested in cardano smart contract
 - 🌱 I’m currently learning reactjs
 - 💞️ I’m looking to collaborate on reactjs
 - 📫 How to reach me josepcheptarus1@gmail.com/
