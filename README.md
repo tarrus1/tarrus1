@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tarrus
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently looking for a job in reactjs
 - 💞️ I’m looking to collaborate on reactjs
 - 📫 How to reach me josephcheptarus1@gmail.com
 
