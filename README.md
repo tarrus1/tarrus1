@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @tarrus
-- 👀 I’m interested in front end development
-- 🌱 I’m currently looking for a job in reactjs
-- 💞️ I’m looking to collaborate on reactjs
-- 📫 How to reach me josephcheptarus1@gmail.com
+- 👋 Hi, I’m Joseph Cheptarus
+- 👀 I’m interested in front end Blockchain (smart_contract) development
+- 🌱 I’m currently looking for a job in reactjs | web3 dev
+- 💞️ I’m looking to collaborate on web3
+- 📫 How to reach me omollojoce@gmail.com
+- 
 
 <!---
 tarrus1/tarrus1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
