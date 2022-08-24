@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Joseph Cheptarus
-- 👀 I’m interested in front end Blockchain (smart_contract) development
+- 👀 I’m interested in front end and Blockchain (smart_contract) development
 - 🌱 I’m currently looking for a job in Blockchain smart contract and front end 
 - 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me josephcheptarus1@gmail.com or omollojoce@gmail.com
